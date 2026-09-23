@@ -1,0 +1,6 @@
+NeonPlayer is a free, open source mp3 player with a neon theme.
+It includes:
+Background Playback
+Adaptive Music Choosing
+Neon effects
+Android UI Intergration

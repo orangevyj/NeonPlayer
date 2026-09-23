@@ -1,0 +1,2 @@
+RELEASE v1 of NeonPlayer
+1. App was made
