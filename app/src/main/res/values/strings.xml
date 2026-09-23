@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">NeonPlayer</string>
+
+    <string name="music_tab">Music</string>
+    <string name="settings_tab">Settings</string>
+
+    <string name="setup_title">NeonPlayer will search for music in:</string>
+    <string name="setup_continue">Continue</string>
+    <string name="setup_need_folder">Pick at least one folder to continue.</string>
+    <string name="open_directory">Open Directory</string>
+    <string name="add_directory">Add</string>
+    <string name="remove_directory">Remove folder</string>
+    <string name="scanning">Searching for music…</string>
+    <string name="no_directories">Add a folder for NeonPlayer to search.</string>
+    <string name="no_music_found">No music found in the selected folders.</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="untitled">Untitled</string>
+    <string name="permission_rationale">NeonPlayer needs permission to read audio files on this device.</string>
+    <string name="grant_permission">Grant permission</string>
+
+    <string name="settings_folders_title">Music folders</string>
+    <string name="settings_folders_hint">NeonPlayer only searches the folders you pick here.</string>
+    <string name="settings_neon_title">Neon effects</string>
+    <string name="settings_neon_hint">Glow and pulse the player, the bottom bar and the Music title.</string>
+
+    <string name="player_collapse">Collapse the player</string>
+    <string name="player_previous">Previous track</string>
+    <string name="player_next">Next track</string>
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_preparing">Preparing… %1$d%%</string>
+    <string name="player_preparing_unknown">Preparing…</string>
+    <string name="player_failed">This track could not be prepared.</string>
+
+    <string name="player_mode_label">Mode:</string>
+    <string name="player_mode_random">Random</string>
+    <string name="player_mode_list">List</string>
+    <string name="player_mode_adaptive">Adaptive</string>
+    <string name="player_analyzing">Reading the sound wave… %1$d/%2$d</string>
+
+    <plurals name="song_count">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <string name="neon_color_title">Glow colour</string>
+    <string name="neon_color_hint">The glow, the bottom bar, the Music title and the app accent all burn in this colour.</string>
+    <string name="neon_color_red">R</string>
+    <string name="neon_color_green">G</string>
+    <string name="neon_color_blue">B</string>
+    <string name="neon_color_reset">Reset to the default orange</string>
+    <string name="neon_intensity_title">Glow strength</string>
+    <string name="neon_intensity_hint">How hard the glow burns, from dark to hotter than the default.</string>
+    <string name="neon_intensity_reset">Reset to the default strength</string>
+    <string name="neon_sensitivity_title">Bass response</string>
+    <string name="neon_sensitivity_hint">How easily the glow catches the bass, from only the hardest hits to nearly every one.</string>
+    <string name="neon_sensitivity_reset">Reset to the default bass response</string>
+    <string name="mini_bar_visualizer">Music visualizer</string>
+    <string name="mini_bar_expand">Open the full player</string>
+    <string name="mini_bar_dismiss">Dismiss the player</string>
+    <string name="notification_channel">Playback</string>
+    <string name="notification_channel_hint">Shows what is playing, and lets it be controlled from here.</string>
+    <string name="notification_starting">Starting playback…</string>
+
+    <string name="info_tab">Info</string>
+    <string name="info_version">Version %1$s</string>
+    <string name="info_support">Im a small developer, who makes apps for fun. I dont earn or gain any money from these projects. You can support me by just.. leaving a 5 star review on whatever platform you got this app from :)</string>
+    <!-- Stands in for info_support on the 1st of April only. -->
+    <string name="info_support_egg">i like oranges and orange what else do you expect to see here</string>
+    <string name="info_licence_title">GNU General Public License v3.0</string>
+    <string name="info_licence_hint">NeonPlayer is free software: you may use, study, share and change it, as long as whatever you pass on stays free under these same terms. The full licence follows.</string>
+
+    <string name="info_assets_title">Third-Party Assets &amp; Licenses</string>
+    <string name="info_assets_hint">The fallback cover images bundled with NeonPlayer come from these photographers, each used under the licence named.</string>
+    <!-- Credits for the bundled cover images in drawable-nodpi. Kept in the order supplied; the list order does not claim to map onto the image numbering. -->
+    <string name="info_assets_1">\"Orange Light #2\" by Shawn Allen is licensed under CC BY 2.0.</string>
+    <string name="info_assets_2">\"red river street, orange lights\" by Mr. Wright is licensed under CC BY-NC-SA 2.0. (Non-Commercial / ShareAlike)</string>
+    <string name="info_assets_3">\"The magic orange light. Inside the Ruhr Museum at Zeche / colliery \'Zollverein\'\" by wwwuppertal is licensed under CC BY-NC 2.0. (Non-Commercial)</string>
+    <string name="info_assets_4">\"Günterstal night street (orange light)\" by tillwe is licensed under CC BY-SA 2.0. (ShareAlike)</string>
+</resources>
